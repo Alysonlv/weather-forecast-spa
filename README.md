@@ -1,1 +1,0 @@
-Projeto criado para fins de treinamento em AngularJS: https://www.udemy.com/learn-angularjs/learn/v4/overview
